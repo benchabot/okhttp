@@ -7,7 +7,7 @@ Security Policy
 | ------- | ---------- | -------------- |
 | 4.x     | ✅         |                |
 | 3.14.x  | ✅         |                |
-| 3.12.x  | ✅         | Android 2.3+ (API level 9+) and Java 7+. Platforms may not support TLSv1.2. Until December 31, 2020  |
+| 3.12.x  | ✅         | Android 2.3+ (API level 9+) and Java 7+. Platforms may not support TLSv1.2. Until December 31, 2021  |
 
 
 ## Reporting a Vulnerability
